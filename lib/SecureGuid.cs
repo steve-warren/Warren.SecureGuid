@@ -1,6 +1,6 @@
 using System.Security.Cryptography;
 
-namespace Warren.SecureGuid;
+namespace Warrensoft.SecureGuid;
 
 /// <summary>
 /// Generates a secure, globally unique identifier (GUID) using 128 bits of entropy from <see ref="System.Security.Cryptography.RandomNumberGenerator" /> with zero allocations.

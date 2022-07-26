@@ -1,3 +1,3 @@
-﻿using Warren.SecureGuid;
+﻿using Warrensoft.SecureGuid;
 
 Console.WriteLine(SecureGuid.New());

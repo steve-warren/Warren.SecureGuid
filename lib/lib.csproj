@@ -2,16 +2,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>Warren.SecureGuid</AssemblyName>
+    <AssemblyName>Warrensoft.SecureGuid</AssemblyName>
     <TargetFramework>netstandard2.1</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>preview</LangVersion>
     <Nullable>enable</Nullable>
-    <PackageId>Warren.SecureGuid</PackageId>
+    <PackageId>Warrensoft.SecureGuid</PackageId>
     <Version>1.0.0</Version>
     <Authors>Steve Warren</Authors>
     <PackageTags>guid;secure;uuid;cryptography</PackageTags>
-    <RepositoryUrl>https://github.com/steve-warren/Warren.SecureGuid.git</RepositoryUrl> 
+    <RepositoryUrl>https://github.com/steve-warren/Warrensoft.SecureGuid.git</RepositoryUrl> 
     <RepositoryType>git</RepositoryType>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>

@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <LangVersion>preview</LangVersion>
-    <RootNamespace>Warren.SecureGuid.ConsoleApp</RootNamespace>
+    <RootNamespace>Warrensoft.SecureGuid.ConsoleApp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
